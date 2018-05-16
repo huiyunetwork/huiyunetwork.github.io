@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## HI,欢迎您加入辉娱网络
 
-You can use the [editor on GitHub](https://github.com/huiyunetwork/huiyunetwork.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+上海辉娱网络科技有限公司是一家年轻而有活力的网络游戏公司，致力于为玩家提供好玩、优质的娱乐游戏。投资方是多方的千万级投资，有雄厚的资本支持！管理团队核心成员均来自各大名企，拥有多年国际和国内游戏行业从业经历，具备丰富的管理运营经验和敏锐的市场洞察力。这里有一流的办公环境，活跃的开发氛围，极具竞争力的薪资待遇。我们提供带薪年假、弹性工作时间、各种团队活动、项目奖金等等，万事俱备只欠东风，期待爱游戏、有激情、有想法的伙伴加入我们，我们必将为您提供自由、宽广的发展空间！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+公司地址：浦东新区申江路5005号星创科技广场A栋8楼 (邮编：201202)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 该公司所有职位
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huiyunetwork/huiyunetwork.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+游戏HTML5主程
+游戏HTML5开发工程师
